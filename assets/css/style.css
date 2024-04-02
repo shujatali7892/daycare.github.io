@@ -2868,7 +2868,7 @@ label {
   padding: 50px 30px;
   padding-bottom: 40px;
   background: #fff;
-  box-shadow: 0 0 10px rgba(136, 136, 136, 0.1);
+  /* box-shadow: 0 0 10px rgba(136, 136, 136, 0.1); */
 }
 
 .contact__info--item .icon {
