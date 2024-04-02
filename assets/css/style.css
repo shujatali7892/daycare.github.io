@@ -8209,3 +8209,12 @@ width: 100%;
   padding: 30px;
   border-radius: 0px 40px 0px 40px;
 } */
+.my-bg{
+background-image: url('../img/bg-shaps/green.png');
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px 10px;
+  filter: drop-shadow(2px 4px 6px gray);
+}
