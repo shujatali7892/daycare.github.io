@@ -8106,12 +8106,11 @@ font-family: "Poppins", sans-serif;
   color: #000397f0 ;
 }
 .admissionProcess .section-title{
-  /* box-shadow: 0px 4px 6px 0px rgba(255, 114, 58, 0.36) ; */
-  
+  /* box-shadow: 0px 4px 6px 0px rgba(255, 114, 58, 0.36) ; */ 
   /* text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 0px -4px 10px rgba(255,255,255,0.3); */
-  box-shadow:2px 7px 5px rgb(205 205 205 / 21%), 0px -4px 10px rgb(255 255 255 / 14%);
+  /* box-shadow:2px 7px 5px rgb(205 205 205 / 21%), 0px -4px 10px rgb(255 255 255 / 14%); */
   border-radius: 19px;
-  padding: 10px;
+  
 }
 .title0{
 background-image: url("../img/bg-shaps/bg-1.webp"); 
@@ -8218,3 +8217,66 @@ background-image: url('../img/bg-shaps/green.png');
   padding: 40px 10px;
   filter: drop-shadow(2px 4px 6px gray);
 }
+.academicV-div{
+  background-image: url('../img/bg-shaps/4.png');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 40px 10px;
+    filter: drop-shadow(2px 4px 6px gray);
+}
+.right-divs{
+    background-image: url('../img/bg-shaps/4.png');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 10px;
+    filter: sepia(1); 
+  }
+ .daycares {
+    background-image: url('../img/bg-shaps/blue.png');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 10px;
+    filter: drop-shadow(2px 4px 6px gray); 
+  }
+    .tab-divs {
+      background-image: url(../img/bg-shaps/4.png);
+      background-position: center;
+      background-attachment: scroll;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 40px 10px;
+      filter: drop-shadow(2px 4px 6px gray);
+    }
+   .ad-misstion {
+      background-image: url(../img/bg-shaps/4.png);
+      background-position: center;
+      background-attachment: scroll;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 40px 10px;
+      filter: drop-shadow(2px 4px 6px gray);
+    }
+        .ad-misstions {
+          background-image: url(../img/bg-shaps/4.png);
+          background-position: center;
+          background-attachment: scroll;
+          background-repeat: no-repeat;
+          background-size: cover;
+          padding: 40px 10px;
+          /* filter: drop-shadow(2px 4px 6px gray); */
+        }
+    .ad-process {
+       background-image: url("../img/bg-shaps/2.png");
+       background-position: center;
+       background-attachment: scroll;
+       background-repeat: no-repeat;
+       background-size: cover;
+       padding: 40px 10px;
+    filter: drop-shadow(2px 4px 1px gray);  
+     }
