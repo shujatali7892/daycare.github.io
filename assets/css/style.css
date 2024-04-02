@@ -8280,3 +8280,30 @@ background-image: url('../img/bg-shaps/green.png');
        padding: 40px 10px;
     filter: drop-shadow(2px 4px 1px gray);  
      }
+     .learn-circle {
+        background-image: url("../img/bg-shaps/green.png");
+        background-position: center;
+        background-attachment: scroll;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 40px 10px;
+        filter: drop-shadow(2px 4px 1px gray);
+      }
+      .management-title  {
+         background-image: url("../img/bg-shaps/black.png");
+         background-position: center;
+         background-attachment: scroll;
+         background-repeat: no-repeat;
+         background-size: cover;
+         padding: 40px 10px;
+         filter:invert(1);
+       }
+             .event-bg {
+               background-image: url(../img/bg-shaps/green.png);
+               background-position: center;
+               background-attachment: scroll;
+               background-repeat: no-repeat;
+               background-size: cover;
+               padding: 40px 10px;
+               filter: drop-shadow(2px 4px 6px gray);
+             }
