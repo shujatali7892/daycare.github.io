@@ -8110,6 +8110,14 @@ font-family: "Poppins", sans-serif;
 .fadein.visible {
   opacity: 1;
   transform: translate(0, 0);
+} 
+
+                 /* ...................... .my-tabs style */
+
+.my-tabs{
+  background-image: -moz-linear-gradient(0deg, rgb(35, 204, 136) 0%, rgb(142, 207, 53) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(35, 204, 136) 0%, rgb(142, 207, 53) 100%);
+  background-image: -ms-linear-gradient(0deg, rgb(35, 204, 136) 0%, rgb(142, 207, 53) 100%);
 }
 .my-tabs .nav .nav-item button:hover {
  
