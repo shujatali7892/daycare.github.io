@@ -346,4 +346,10 @@ $(document).on("scroll", function () {
 			$(tag).removeClass("visible")
 		}
 	}
-})
+});
+$(document).ready(function () {
+
+	$(window).scrollTop(0);
+	return false;
+
+});

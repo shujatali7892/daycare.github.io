@@ -8111,3 +8111,58 @@ font-family: "Poppins", sans-serif;
   opacity: 1;
   transform: translate(0, 0);
 }
+.my-tabs .nav .nav-item button:hover {
+ 
+  color: var(--bs-danger) !important;
+}
+.my-tabs .nav .nav-item button.active {
+  background-color: #251616;
+  color: var(--bs-danger) !important;
+}
+.my-tabs .nav .nav-item button.active::after {
+  content: "";
+  border-right: 4px solid var(--bs-danger);
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  /* border-radius: 5px 0 0 5px; */
+  border-radius: 20px;
+}
+ .my-tabs .card{
+  border: none !important;
+  box-shadow: 0px 0px 5px gray;
+  padding: 20px;
+ }
+  
+  .my-tabs .nav-link { 
+   padding: .5rem .5rem !important; 
+   text-align: justify !important;
+   }
+.my-tabs .tab-content {
+  background-image: url(../img/bg-shaps/2.png);
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px; 
+  box-shadow: 0px 0px 10px gray inset;
+  border-radius: 0px 40px 40px 0px;
+}
+     .tab-pane .card {
+       background-image: url(../img/bg-shaps/4.png);
+       background-position: center;
+       background-attachment: scroll;
+       background-repeat: no-repeat;
+       background-size: cover;
+       padding: 40px 10px;
+       background-color: transparent;
+       box-shadow: none;
+     }
+       .tab-pane .card img{
+              border-radius: 20px 0px 30px 0px;
+              box-shadow: 0px 4px 6px 0px rgba(255, 114, 58, 0.36);
+             }
+        .tab-pane  .card-body { 
+              padding: 1rem 0rem !important;
+            }
