@@ -257,6 +257,14 @@
  
 /* SM Device :320px. */
 @media (max-width: 767px) {
+    .my-tabs .tab-content {
+            background-image: url(../img/bg-shaps/2.png);
+            background-position: top;
+            background-attachment: scroll;
+            background-repeat: repeat;
+            background-size: cover;
+            padding: 40px 0px; 
+        }
     .index-1{
         background-image: url('../img/slider/sm-slider.jpg');
         background-position: center;
